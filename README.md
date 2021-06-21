@@ -2,6 +2,6 @@
 
 psd to html
 
-Tools: jaHTML , CSS, Bootstrap
+Tools: HTML , CSS, Bootstrap
 
 Live-side: 
